@@ -15,3 +15,7 @@ Ce projet est un mini-shell développé en C sous Ubuntu WSL.
 ```bash
 gcc main.c -o minishell
 ./minishell
+```
+## 🎥 Démonstration
+
+[Télécharger / Voir la vidéo](./vidéo-de-démonstration_minishell_CHARAF-Said.mp4)
